@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VisionPro</string>
+    <string name="navigation_drawer_open">Open Navigation drawer</string>
+    <string name="navigation_drawer_close">close Navigation drawer</string>
+    <string name="don_t_have_account_sign_up_here">Don\'t Have Account? Sign Up <u>Here</u></string>
+    <string name="already_have_account_login_here">Already Have Account? Login <u>Here</u></string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220940974397",
+    "project_id": "visionpro-2a3b5",
+    "storage_bucket": "visionpro-2a3b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220940974397:android:6d48d755446a13c352ad54",
+        "android_client_info": {
+          "package_name": "com.example.visionpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220940974397-4iv3na97v6k6po7pkt9tqf9gpi0ppude.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPqDI-80qecK4EXfIoUbKcCpI89d1leqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220940974397-4iv3na97v6k6po7pkt9tqf9gpi0ppude.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
